@@ -1,0 +1,156 @@
+
+Content for tobiassalem.com
+=============================
+
+About
+------
+Tobias was born in the beautiful heart of Sweden on a warm summers night in the late 1970's. 
+Growing up and meeting people with dedicated amibtions, the fascination for art and craft grew ever stronger. 
+
+Together with the steadfast devotion to science and technology this merged into emergent phenomena;
+combining the knowledge and experience as an engineer with the creative process and material exploration as an artist.
+
+The motivation for my work is multifaceted. At the very core it comes from an ambition to invent 
+and improve things, something that has been with me since I was a child. One expression of
+this occurred at kinder-garden where I mended broken things and explored new ways to make them
+work. Even as an engineer I have always wanted to improve things I have seen, whether they be
+advanced technical systems or more fundamental products. I believe that for every problem there is
+always a solution, even though it may not always be what we have expected, and for every solution,
+there is always a better one you have yet to discover.
+
+I have during the last years undertaken the artistic education in form, design and metal crafting
+at Steneby (see http://www.steneby.se/). This has in many ways been a very rewarding time.
+Foremost because I've been forced to struggle a lot with the creative process which now without a
+doubt has made me a stronger person, viewing the world in a different way. This ranges from
+appreciating the molecular networks of leaves to the unbiased exploratory sketching process
+exploring designs expressing a certain concept or emotion. For me this confirmed thoughts I've had
+for many years; that there is much more than the relatively strict and straightforward way of
+working which exists in the world of engineering. Even though this artistic way of working very
+often entails deeper struggles -and of a different kind- it simply is more interesting and rewarding 
+on both the emotionational as well as the professional level. 
+
+My academical background -apart from Steneby- is a master's degree in computer science with
+major in artificial intelligence and adaptive systems undertaken at Stockholm University, KTH and SICS. 
+This is also primarily what I've been working with, applied to telecommunications, biotechnology, e-commerce, and aeronautics systems.
+As a system developer and architect I have worked within the design process in many different
+forms. The will to increase this understanding from a different perspective thus comes naturally to
+me.
+
+The steadfast dedication to science and technology has merged together with the fascinating world of arts and craft.
+Even though the future is unknown, when inherently valuable components meet, it often naturally results in emergent phenomena.
+Something which nature around us is full of. 
+The ambition rests in combining the knowledge and experience as an engineer with the creative process and material exploration of the artist.
+
+http://evolutionofcomputing.org/Multicellular/Emergence.html
+
+
+Inspiration
+------------
+What is it that inspires us to greatness? 
+
+It can be a good friend or loved one. It can be the words of an insightful teacher, 
+the dream of reaching higher goals together, to conquer the challenges placed before us.
+Or it can simply be the beauty of a fallen leaf. Whatever it is for you, cherish it always; for how would our lives be without it?
+
+Motivation
+------------
+What motivates us to use our knowledge and inspiration in our work?
+
+						<li>Exploring human emotions and expressions</li>
+						<li>Exploring materials and forms.</li>
+						<li>Facing the challenges of humanity.</li>
+						<li>Pursuing perfection, and at the same time accepting that it never will be reached.</li>
+
+Progression
+-------------
+When you dedicate your energy on your passion, when you know in which direction you are going. Then whatever happens, there really are no failures, only feedback you can learn from. That is the true spirit of ambition, to always be open to exploration and the new learning it brings.
+
+Have you ever experienced that boundless emotion when inspiration flows through your very being.
+When time and space simply fades away and all your focus is on what is right front of you.
+I feel that's when you can really focus on your work and reach amazing results. Even though the future
+is always unpredictable, when you know in which direction you are moving, the details don't really matter.
+You know that it will be something good, something you can learn from. That's the true spirit of ambition, 
+to always be open to exploration and new learning.
+
+
+Philosophy
+-----------
+
+		<blockquote>
+			<p>Our greatest glory is not in never falling but in rising every time we fall.</p>			
+		</blockquote>
+		<cite>Confucius</cite>
+		
+		<blockquote>
+		<p>Success is not to be pursued; it is to be attracted by the person we become.</p>
+		</blockquote>
+		<cite>Jim Rohn</cite>
+
+		<div class="clear"></div>
+		<img class="imgr" src="images/folio.jpg" alt="" width="100" height="100" />
+		<p>
+		<blockquote>
+		<p>There is no point in doing something, unless it satiesfies a passion.</p>
+		</blockquote>
+		<cite>Tobias</cite>
+
+Contemplation
+---------------
+There is something special about hiking in majestic mountain ranges. Whether it is the Scandinavian fjälls or the
+awe-inspiring himalayan peaks, there is always that humble feeling of being quite small, and at the same time having the insight
+of being part of something amazing. From this perspective there truly are no borders.
+
+
+<h4>Think further</h4>
+-------------------------
+Is a straight line always aesthetically more pleasing than a crooked line?
+Is symmetry always more beautiful than asymmetry?
+Can darkness be something uplifting? 
+Can pain lead to something rewarding?
+Can emergent phenomena occur by combining unlikely domains and materials?
+
+						<p>What is it that limits us in our lives, is it fear of failure, expectations of others and society.						
+						In order to do great things, we must love what we do. Don't settle for living the life
+						of someone else. Until you find what you love, just keep looking.
+						</p></li>
+					<li>
+						<div class="imgholder">
+							<a href="images/explore-unprejudiced.jpg" data-gal="prettyPhoto[featured]" title="explore without prejudice"><img
+								src="images/featured-explore-unprejudiced.jpg" width="275" height="145" alt="" />
+							</a>
+						</div>
+						
+<h4>Explore unprejudiced</h4>
+------------------------------
+Explore materials, expressions, environments, people, feelings, reactions. 
+All without any preconceptions, for it is when we are free of them the real exploration can begin.
+This unprejudiced exploration is important, since new learning cannot be planned for, it is something we discover on the path.
+We cannot have a perfect image of our project or goal beforehand, and that is ok. When you care more about doing than to have done,
+the pieces will fall into place naturally.
+
+This exploration is important, since the true goal is seldom known beforehand, rather something we discover on the path. 
+
+						<p>Have you ever visited a place or met a person that lead to something amazing, something that you could never 
+						have predicted. When we are free of the preconceptions, real exploration can begin.
+						</p></li>
+					<li class="last">
+						<div class="imgholder">
+							<a href="images/learn.jpg" data-gal="prettyPhoto[featured]" title="learn from the experience"><img
+								src="images/featured-learn.jpg" width="275" height="145" alt="" />
+							</a>
+						</div>
+						
+<h4>Learn</h4> / keep the fire burning
+----------------------------------------
+Passion is naturally changing over time, on a great day it might be a raging fire, while on others a low steady embers glow.
+That is natural and needs to be accepted. However it always needs to be kept burning.
+For me it simply means creating things that make you feel good and think further. 
+For this to be possible I need to be open to new learning, continuously challenging norms and preconceptions that prevents us from creating the world that ought to be.
+  
+Are you more interested in doing and learning, than to have done?
+
+						<p>Have you ever experienced the sensation of doing something great. Perhaps it felt unexpected,
+						something that felt out of character. The amazing thing is that those abilities are within us,
+						they only need to be discovered and awakened. With that insight, there really is no reason to not follow your heart.
+						</p></li>
+						
