@@ -2333,3 +2333,15 @@ div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline
 	margin-top: -20px;
 	font-size: 20px;
 }
+
+/* ========= [TWITTER STYLE MODS] ========= */
+.avatar, .u-photo, .u-url, .p-nickname, .full-name {display: none !important;}
+
+.interact {
+  width:10%;
+  margin-top:-7px;
+}
+
+.interact a {
+  margin-right:5px;
+}
